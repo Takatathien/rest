@@ -1,6 +1,6 @@
 # rest
 
-This is a simple RestAPI with full CRUD funtionality.
+This is a simple REST API with full CRUD funtionality.
 It meant as a learning experience.
 
 The project used Eclipse IDE, Maven, Springnoot, MySQL, and Postman.
